@@ -14,3 +14,7 @@
 h2.white {
   color: white;
 }
+
+.circle {
+  border-radius: 50%;
+}

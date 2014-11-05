@@ -3,13 +3,13 @@
     {
         "headline":"前端是是非非",
         "type":"default",
-    "text":"People say stuff",
-    "startDate":"2012,3,1",
+        "text":"wendy",
+        "startDate":"2012,3,1",
         "date": [
             {
                 "startDate":"2011,4,10",
                 "headline":"结识丁学长",
-                "text":"<p>24 岁的丁学长，年轻有为</p>",
+                "text":"<p>24 岁的丁学长，年轻有为</p><p>Geakit</p>",
                 "asset":
                 {
                     "media":"./imgs/ding.jpg",
@@ -21,7 +21,7 @@
                 "startDate":"2012,3,1",
                 "endDate":"2013,3,1",
                 "headline":"PECK 医疗服务网站",
-                "text":"<p>网站主要实现预诊断功能、健康生活和医患交流平台</p>",
+                "text":"<p>网站主要实现预诊断功能、健康生活和医患交流平台</p><p>技术：Bootstrap, Javascript/HTML5/CSS3, Rails, Sunspot, Mysql...</p>",
                 "asset":
                 {
                     "media":"./imgs/peck1.png",
@@ -45,7 +45,7 @@
                 "startDate":"2013,5,1",
                 "endDate":"2013,6,1",
                 "headline":"极客行动官方网站",
-                "text":"<p>前端开发</p>",
+                "text":"<p>技术：Bootstrap, Javascript/HTML5/CSS3</p>",
                 "asset":
                 {
                     "media":"./imgs/geekon.jpg",
@@ -57,7 +57,7 @@
                 "startDate":"2013,7,1",
                 "endDate": "2014,2,1",
                 "headline":"Dotide",
-                "text":"<p>dotide<p>",
+                "text":"<p>网址：http://dotide.com<p><p>技术：Foundation, Backbone, Javascript/HTML5/CSS3</p>",
                 "asset":
                 {
                     "media":"./imgs/dotide.png",
@@ -69,7 +69,7 @@
                 "startDate":"2014,2,1",
                 "endDate":"2014,3,1",
                 "headline":"OBU船舶项目",
-                "text":"<p>obu<p>",
+                "text":"<p>技术：Foundation, Backbone, Leaflet,Javascript/HTML5/CSS3</p>",
                 "asset":
                 {
                     "media":"./imgs/obu.png",
@@ -81,7 +81,7 @@
                 "startDate":"2014,3,10",
                 "endDate": "2014,4,1",
                 "headline":"wendycan",
-                "text":"<p>wendycan.org<p>",
+                "text":"<p>网址：wendycan.org<p><p>技术：Foundation, Rails, Javascript/HTML5/CSS3</p>",
                 "asset":
                 {
                     "media":"./imgs/wendycan.png",
@@ -93,7 +93,7 @@
                 "startDate":"2014,5,1",
                 "endDate": "2014,6,30",
                 "headline":"阅台",
-                "text":"<p>yuetai.wendycan.org<p>",
+                "text":"<p>网址：yuetai.wendycan.org<p><p>技术：Foundation, Backbone, Javascript/HTML5/CSS3</p>",
                 "asset":
                 {
                     "media":"./imgs/yuetai.png",
@@ -105,7 +105,7 @@
                 "startDate":"2014,5,12",
                 "endDate": "2014,7,5",
                 "headline":"心电远程监控",
-                "text":"<p></p>",
+                "text":"<p>技术：Javascript/HTML5/CSS3</p>",
                 "asset":
                 {
                     "media":"./imgs/remote.png",
@@ -116,7 +116,7 @@
       {
                 "startDate":"2014,7,11",
                 "headline":"微搜索",
-                "text":"最好用的站内搜索引擎",
+                "text":"<p>最好用的站内搜索引擎</p><p>网址：http://tinysou.com</p><p>技术：Foundation, Backbone, Javascript/HTML5/CSS3</p>",
                 "asset":
                 {
                     "media":"./imgs/tinysou.png",
