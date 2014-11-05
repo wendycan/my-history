@@ -48,19 +48,7 @@
                 "text":"<p>前端开发</p>",
                 "asset":
                 {
-                    "media":"http://youtu.be/u4XpeU9erbg",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2013,6,1",
-                "endDate":"2013,7,1",
-                "headline":"电商网站",
-                "text":"<p> wordpress</p>",
-                "asset":
-                {
-                    "media":"http://youtu.be/f-x8t0JOnVw",
+                    "media":"./imgs/geekon.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -72,9 +60,9 @@
                 "text":"<p>dotide<p>",
                 "asset":
                 {
-                    "media":"./imgs/tinysou.png",
+                    "media":"./imgs/dotide.png",
                     "credit":"",
-                    "caption":"Writers & Creators: Kyle Humphrey & Graydon Sheppard"
+                    "caption":""
                 }
             },
       {
@@ -98,7 +86,7 @@
                 {
                     "media":"./imgs/wendycan.png",
                     "credit":"",
-                    "caption":"written, filmed, and edited by Kate Imbach & Tom Conrad"
+                    "caption":""
                 }
             },
       {
@@ -110,7 +98,19 @@
                 {
                     "media":"./imgs/yuetai.png",
                     "credit":"",
-                    "caption":"written, filmed, and edited by Kate Imbach & Tom Conrad"
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2014,5,12",
+                "endDate": "2014,7,5",
+                "headline":"心电远程监控",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"./imgs/remote.png",
+                    "credit":"",
+                    "caption":""
                 }
             },
       {
