@@ -7,12 +7,12 @@
     "startDate":"2012,3,1",
         "date": [
             {
-                "startDate":"2011,7,10",
+                "startDate":"2011,4,10",
                 "headline":"结识丁学长",
-                "text":"<p>生物信息学实验室</p>",
+                "text":"<p>24 岁的丁学长，年轻有为</p>",
                 "asset":
                 {
-                    "media":"https://vine.co/v/b55LOA1dgJU",
+                    "media":"./imgs/ding.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -24,7 +24,7 @@
                 "text":"<p>网站主要实现预诊断功能、健康生活和医患交流平台</p>",
                 "asset":
                 {
-                    "media":"https://vine.co/v/b55LOA1dgJU",
+                    "media":"./imgs/peck1.png",
                     "credit":"",
                     "caption":""
                 }
@@ -33,10 +33,10 @@
                 "startDate":"2012,8,20",
                 "endDate":"2013,8,20",
                 "headline":"休学",
-                "text":"。。。",
+                "text":"<p><p>",
                 "asset":
                 {
-                    "media":"https://vine.co/v/b55LOA1dgJU",
+                    "media":"./imgs/xiuxue.png",
                     "credit":"",
                     "caption":""
                 }
@@ -69,34 +69,46 @@
                 "startDate":"2013,7,1",
                 "endDate": "2014,2,1",
                 "headline":"Dotide",
-                "text":"",
+                "text":"<p>dotide<p>",
                 "asset":
                 {
-                    "media":"http://youtu.be/u-yLGIH7W9Y",
+                    "media":"./imgs/tinysou.png",
                     "credit":"",
                     "caption":"Writers & Creators: Kyle Humphrey & Graydon Sheppard"
                 }
             },
       {
                 "startDate":"2014,2,1",
-                "endDate":"2014,4,1",
+                "endDate":"2014,3,1",
                 "headline":"OBU船舶项目",
-                "text":"",
+                "text":"<p>obu<p>",
                 "asset":
                 {
-                    "media":"http://youtu.be/Ofy5gNkKGOo",
+                    "media":"./imgs/obu.png",
                     "credit":"",
                     "caption":""
                 }
             },
       {
-                "startDate":"2014,5,1",
-                "endDate": "2014,6,30",
-                "headline":"wendycan.org",
-                "text":"",
+                "startDate":"2014,3,10",
+                "endDate": "2014,4,1",
+                "headline":"wendycan",
+                "text":"<p>wendycan.org<p>",
                 "asset":
                 {
-                    "media":"http://youtu.be/BR8zFANeBGQ",
+                    "media":"./imgs/wendycan.png",
+                    "credit":"",
+                    "caption":"written, filmed, and edited by Kate Imbach & Tom Conrad"
+                }
+            },
+      {
+                "startDate":"2014,5,1",
+                "endDate": "2014,6,30",
+                "headline":"阅台",
+                "text":"<p>yuetai.wendycan.org<p>",
+                "asset":
+                {
+                    "media":"./imgs/yuetai.png",
                     "credit":"",
                     "caption":"written, filmed, and edited by Kate Imbach & Tom Conrad"
                 }
@@ -107,7 +119,7 @@
                 "text":"最好用的站内搜索引擎",
                 "asset":
                 {
-                    "media":"http://youtu.be/zyyalkHjSjo",
+                    "media":"./imgs/tinysou.png",
                     "credit":"",
                     "caption":""
                 }
