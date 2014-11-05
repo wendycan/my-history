@@ -1,0 +1,10 @@
+{
+  "name": "tinysou",
+  "version": "0.0.1",
+  "dependencies": {
+    "foundation": "~5.4.7",
+    "fullpage.js": "~2.4.3",
+    "TimelineJS": "~2.32.0"
+  },
+  "private": true
+}
