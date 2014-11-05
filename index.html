@@ -28,17 +28,25 @@
       </div>
     </div>
     <div class="section second">
+      <div id="timeline-embed"></div>
+    </div>
+    <div class="section third">
       <div class="text-center">
         <h2 class="white">创业东南西北</h2>
         <br>
         <img src="imgs/map.png" alt="">
       </div>
     </div>
-    <div class="section">
-      <div id="timeline-embed"></div>
+    <div class="section forth">
+      <div class="text-center">
+        <h2 class="white">微搜索团队</h2>
+        <img src="./imgs/members.png" alt="">
+      </div>
     </div>
-    <div class="section text-center">
-      <h3>Good bye</h3>
+    <div class="section text-center fifth">
+      <h2 class="gray">让开发者的工作更简单！</h2>
+      <p>@微搜索团队</p>
+      <img src="./imgs/pos.png" alt="">
     </div>
   </div>
 
@@ -46,13 +54,14 @@
   var timeline_config = {
     width: "100%",
     height: "100%",
+    lang: "zh-cn",
     source: 'data.json'
   };
   $(document).ready(function() {
     $(document).foundation();
     $('#fullpage').fullpage({
-      sectionsColor: ['whitesmoke', '#1bbc9b', '#fff', 'gray'],
-      anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage'],
+      sectionsColor: ['whitesmoke', '#fff', '#1bbc9b', 'gray', 'whitesmoke'],
+      anchors: ['firstPage', 'secondPage', 'thirdPage', 'forthpage', 'fifthpage'],
       menu: '#menu'
     });
   });
